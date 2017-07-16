@@ -94,3 +94,11 @@
 Г. А. Мороз, agricolamz@gmail.com \
 *Именная морфология*
 
+
+## Проекты
+лето 2017 \
+Rails Girls Summer of Code, JoopeA Club \
+https://teams.railsgirlssummerofcode.org/teams/416 \
+*Django разрабочик: интернационализация сайта*
+
+
