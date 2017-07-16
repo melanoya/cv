@@ -96,7 +96,7 @@
 
 
 ## Проекты
-лето 2017 \
+* лето 2017 \
 Rails Girls Summer of Code, JoopeA Club \
 https://teams.railsgirlssummerofcode.org/teams/416 \
 *Django разрабочик: интернационализация сайта*
