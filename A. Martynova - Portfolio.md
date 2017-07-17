@@ -97,8 +97,13 @@
 
 ## Проекты
 * лето 2017 \
-Rails Girls Summer of Code, JoopeA Club \
+JoopeA Club \
 https://teams.railsgirlssummerofcode.org/teams/416 \
 *Django разрабочик: интернационализация сайта*
 
+
+## Именные стипендии
+* лето 2017 \
+Rails Girls Summer of Code \
+https://railsgirlssummerofcode.org/blog/2017-05-22-teams-2017 (Team Alexa)
 
