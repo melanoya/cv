@@ -105,18 +105,18 @@ https://teams.railsgirlssummerofcode.org/teams/416 \
 ## Другое
 * 2016-2017 \
 ридинг-группа по чатботам \
-Е. Кузьменко, lizaku77@gmail.com
+Е. Кузьменко, lizaku77@gmail.com \
 *участие в организации*
 
 * 2016-2017 \
 Лингвистический кружок для школьников Школы Лингвистики НИУ ВШЭ \
-В. Иванова, violett.ivanova@gmail.com
+В. Иванова, violett.ivanova@gmail.com \
 *доклад про автоматическое распознавание речи*
 
 * 2014-2017 \
 Семинар по жестовой лингвистике \
 <https://ling.hse.ru/Seminars_SignLang>
-Г. А. Мороз, agricolamz@gmail.com
+Г. А. Мороз, agricolamz@gmail.com \
 *участие в семинаре (Порядок слов в РЖЯ, автоматическое распознавание РЖЯ)*
 ***
 
