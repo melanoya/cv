@@ -115,7 +115,7 @@ https://teams.railsgirlssummerofcode.org/teams/416 \
 
 * 2014-2017 \
 Семинар по жестовой лингвистике \
-<https://ling.hse.ru/Seminars_SignLang>
+<https://ling.hse.ru/Seminars_SignLang> \
 Г. А. Мороз, agricolamz@gmail.com \
 *участие в семинаре (Порядок слов в РЖЯ, автоматическое распознавание РЖЯ)*
 ***
