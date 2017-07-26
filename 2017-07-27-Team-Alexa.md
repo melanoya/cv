@@ -1,39 +1,47 @@
 ---
-title: Meet Us - Team Serv0101 
+title: Alexandra + Alexandra = team Alexa
 layout: post
-created_at: Fri Jul 21 2017
-permalink: blog/2017-07-21-meet-us-team-serv0101
+created_at: Thu Jul 27 2017
+permalink: blog/2017-07-27-alexandra-+-alexandra-=-team-alexa
 current: blog
 author: Sasha & Sasha
 categories:
 - student-posts
 ---
 
-## Introducing Team Serv0101
+
+Hi! We are a team of computational linguists/Python/Django developers from Moscow, Russia. We are working on a JClub project. It’s a social network for LGBTQI+ people. It’s built using Django framework, and our goal is to make it multilingual.
+
+## [Team](https://twitter.com/linguistsare)
+
+#### About Sasha ([melanoya](https://github.com/melanoya))
 
 <img src="/img/blog/2017/TeamServo_Neha_Rakhi.jpg" alt="Neha and Rakhi">
 <div class="image-credits">Neha and Rakhi</div>
 
-Together_we_can_do_anything. Yes this is true. Rakhi and Neha met each other 4 years back in university. The journey of becoming friends from stranger was amazing. We had fun together and now working together on same project, Isn’t this amazing?. When we entered into our last semester this January, we realised after few months this is going to end.  But RGSoC has given us an opportunity to work together. We were lucky enough to get in.
+* Four and a half years ago Sasha was going to be an interpreter and believed that she had no talent for math and programming.
+* She studied Russian sign language for two years, and knows it better than any other foreign language.
+* She can juggle and do slacklining.
+* From the first year at the university Sasha’s been studying Yiddish. She even went once to Moldova to find there native Yiddish speakers.
+* Adores phonetics and automatic speech recognition!
 
-#### Story behind project selection and our Team Name:
 
-We went through many projects and shortlisted two projects but both us attracted more towards Servo. The only thing we were scared about was none of us had experience with rust. That was the time when we both shared our thoughts about servo and after few days of discussion and research we were done with project selection. We both were computer science engineering students, we love playing around with 0 and 1, so here is our project- servo with team name #Serv0101.
+#### About Sasha ([religofsil](https://github.com/religofsil))
 
-#### Team Serv0101
-
-[__Meet Neha__:](https://twitter.com/neha_28_yadav)
 <img src="/img/blog/2017/TeamServo_Neha.jpg" alt="Neha">
 <div class="image-credits">Photo taken by Rakhi</div>
 
-Neha started her journey in the field of programming when she was in the mid of her 3rd year. So, it’s been one and half year since she started her journey. But after starting her journey she never stopped. She started with Learn IT Girl, then worked with a startup and then made to finale of Smart India hackathon and now finally in RGSoC. So this is a small journey in short period of time.
+* Gives public lectures on computational linguistics, chatbots, machine learning, and all that AI stuff. Once managed to explain a group of 11-years-old how neural networks work, was (and still is) very proud of herself.
+* At 16 she made a promise to herself that she will never ever ever get into programming. Broke it at 19, first week at the university.
+* Listens to a lot of music. Like, A LOT. Used to spend most of her money on concert tickets, been to a 30+ shows.
+* Can’t do anything without tea, drinks up to 10 cups of tea per day.
+* Studied Indonesian for a year, just for fun.
 
-[__Meet Rakhi__:](https://twitter.com/atbrakhi)
-<img src="/img/blog/2017/TeamServo_rakhi.jpg" alt="Rakhi">
-<div class="image-credits">Photo taken by Neha</div>
 
-Rakhi graduated last month with Bachelors degree in Computer Science and Engineering. She worked as an Outreachy intern at Mozilla last summer(2016). While at Mozilla, She helped in improving several distinct aspects of Firefox's UI on all desktop platforms. Also, she was a Learn IT Girl Scholar. She has keen interest in computers and She love to code. Hence, She can be found near her system most of the time. Outside of Computers, She like to play Badminton, Volleyball and go on trekking sometimes.
-You can find more about her here (http://rakhisharma.me/).
+
+We met each other four years ago at the university. Despite the fact that we’ve been classmates, we met only at the end of the first year in preparation for the exam in language theory. Then we went roller-skating, and from there our friendship began. Many walks, board games, delicious food and joint projects awaited us in the future.
+During these years, we worked together on many projects in various fields, from sociolinguistics to web development, and we’ve always been a great team, because we make each other stronger.
+
 
 #### Mentor and  Coaches:
 
