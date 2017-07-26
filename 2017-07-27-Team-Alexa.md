@@ -49,10 +49,18 @@ During these years, we worked together on many projects in various fields, from 
 ## Coaches:
 
 [__Kate__:](https://github.com/Sereni)
+
+<img src="/img/blog/2017/TeamServo_Neha_Rakhi.jpg" alt="Kate">
+
 Back at the university Katya was one of the students, just like us, only a year older. After her second year, she started doing Google Summer of Code, received Anita Borg scholarship, and gave several talks about it at the university. She’s the person who inspired us (and many other students) to try and get into summer of code programs. Katya is not only our coach, she’s also our role model, and a person who gave us much needed moral support throughout the application process and first few weeks of RGSoC, when everything was unclear and kind of scary. Right now Katya works at Google, at London office, so we have to use Hangouts for our meetings. 
 
 
+
+
 [__Ildar__:](https://github.com/theotheo)
+
+<img src="/img/blog/2017/TeamServo_Neha_Rakhi.jpg" alt="Sasha and Ildar">
+
 Ildar is a data scientist who we met before the very beginning of the program at PyData meetup. Before being our coach, he was a Django Girls mentor. When we told him about Rails Girls Summer of Code, he immediately wanted to be our coach. It is rare to meet a person who so unexpectedly appears in life and begins to play an important role in it. It turned out that Ildar, like us, is interested in the natural language processing (and, unlike us, knows Python and Django very well :)) He lives in Moscow, so we often meet for lunch and discuss our project. These lunches are very helpful, as everything becomes much clearer after our meetings.
 
 
