@@ -16,8 +16,8 @@ Hi! We are a team of computational linguists/Python/Django developers from Mosco
 
 #### About Sasha ([melanoya](https://github.com/melanoya))
 
-<img src="/img/blog/2017/TeamServo_Neha_Rakhi.jpg" alt="Neha and Rakhi">
-<div class="image-credits">Neha and Rakhi</div>
+<img src="/img/blog/2017/TeamServo_Neha_Rakhi.jpg" alt="melanoya">
+
 
 * Four and a half years ago Sasha was going to be an interpreter and believed that she had no talent for math and programming.
 * She studied Russian sign language for two years, and knows it better than any other foreign language.
@@ -28,8 +28,8 @@ Hi! We are a team of computational linguists/Python/Django developers from Mosco
 
 #### About Sasha ([religofsil](https://github.com/religofsil))
 
-<img src="/img/blog/2017/TeamServo_Neha.jpg" alt="Neha">
-<div class="image-credits">Photo taken by Rakhi</div>
+<img src="/img/blog/2017/TeamServo_Neha.jpg" alt="religofsil">
+
 
 * Gives public lectures on computational linguistics, chatbots, machine learning, and all that AI stuff. Once managed to explain a group of 11-years-old how neural networks work, was (and still is) very proud of herself.
 * At 16 she made a promise to herself that she will never ever ever get into programming. Broke it at 19, first week at the university.
@@ -38,25 +38,29 @@ Hi! We are a team of computational linguists/Python/Django developers from Mosco
 * Studied Indonesian for a year, just for fun.
 
 
+<img src="/img/blog/2017/TeamServo_Neha.jpg" alt="team alexa">
 
 We met each other four years ago at the university. Despite the fact that we’ve been classmates, we met only at the end of the first year in preparation for the exam in language theory. Then we went roller-skating, and from there our friendship began. Many walks, board games, delicious food and joint projects awaited us in the future.
 During these years, we worked together on many projects in various fields, from sociolinguistics to web development, and we’ve always been a great team, because we make each other stronger.
 
 
-#### Mentor and  Coaches:
 
-[__Josh Matthews__:](https://twitter.com/lastontheboat)
-An amazing person we ever got to interact with. Sometimes we both discuss about how is it possible for a person to be filled with such talent :P. He is always up for the help. He is an amazing developer and a mentor. Everyone we interact with said us one thing, “You Girls are on safe hands”.
 
-[__Ravi Sankar__:](https://wafflespeanut.github.io)
-Ravi is Code fiddler, FOSS enthusiast, science lover, Pythonista, Rustacean, Mozillian, juggler, adventurer and rest we are still figuring out. Find more about him here: https://wafflespeanut.github.io
+## Coaches:
 
-[__Rahul Sharma__:](http://creativcoder.github.io/)
-Rahul is passionately curious about computer science and programming. He is 2016 GSoC Intern with Servo and currently works at AtherEnergy. He also contributes to rustc, and other projects in the Rust Community. His interests includes systems programming, realtime web technologies, compilers and type theory. 
+[__Kate__:](https://github.com/Sereni)
+Back at the university Katya was one of the students, just like us, only a year older. After her second year, she started doing Google Summer of Code, received Anita Borg scholarship, and gave several talks about it at the university. She’s the person who inspired us (and many other students) to try and get into summer of code programs. Katya is not only our coach, she’s also our role model, and a person who gave us much needed moral support throughout the application process and first few weeks of RGSoC, when everything was unclear and kind of scary. Right now Katya works at Google, at London office, so we have to use Hangouts for our meetings. 
 
-## About Our Work 
 
-Just like our mentor Josh Matthews (jdm on IRC) says on FosDem, "Basically all of the browser engines you are using were designed before the year 2000, and hardware at that time was very different. It usually only had one core, clock speeds were lower and you had much less memory available to you"
-In Servo, things run in parallel. Also according to Josh “Modern engines will often be able to do the actual painting to the screen in parallel and then you have a loop between computing and executing. Even so there are a lot of serial and sequential operations that we believe we could do better”
-We are working on making servo support responsive images.
+[__Ildar__:](https://github.com/theotheo)
+Ildar is a data scientist who we met before the very beginning of the program at PyData meetup. Before being our coach, he was a Django Girls mentor. When we told him about Rails Girls Summer of Code, he immediately wanted to be our coach. It is rare to meet a person who so unexpectedly appears in life and begins to play an important role in it. It turned out that Ildar, like us, is interested in the natural language processing (and, unlike us, knows Python and Django very well :)) He lives in Moscow, so we often meet for lunch and discuss our project. These lunches are very helpful, as everything becomes much clearer after our meetings.
+
+
+
+## Project 
+
+The JoopeA Club is a social network for Persian LGBTQI+ community. It is supposed to be a safe space for people of any gender and/or sexual orientation. Right now the social network is only available for people who speak Persian. Our task for this summer is to build support for other languages, so that more people could use the social network.
+
+We picked this project not only because it matches our skills, but because we believe in its social importance. Living in a country where homophobia is the default option makes you appreciate safe spaces and communities where people are allowed to be themselves and can talk openly about their problems, without the risk of breaking the laws or being called names. We hope that our work for JoopeA Club will make at least some difference for some people.
+
 
