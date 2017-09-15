@@ -1,8 +1,8 @@
 ---
-title: Team Alexa update
+title: The end of Sasha&Sasha's journey
 layout: post
 created_at: Thu September 15 2017
-permalink: blog/2017-09-15-team-alexa-update
+permalink: blog/2017-09-15-the-end-of-sasha&sasha's-journey
 current: blog
 author: Sasha & Sasha
 categories:
@@ -49,6 +49,9 @@ We also have attended many meetings of the local Python community (and other pro
 <div align="center" div class="image-credits"> Sasha took a picture of the other Sasha while <s>she was eating</s> we were working on our project at @Google. </div> 
 
 ## We want to say thanks to our dream team
+Thank you, our coaches Katya and Ildar, for being there for us whenever we needed help with Django or just moral support. Thanks to Maria, our supervisor, who helped us getting through this summer without troubles of any kind with RGSoC or with our team. And, of course, we would like to thank our mentor Raham for giving us this opportunity to work on the project and for helping us throughout the summer.
+
+And we’d like to thank each other for being awesome teammates and friends to each other. :)
 
 
 ## What next?
